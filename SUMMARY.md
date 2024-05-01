@@ -23,3 +23,7 @@
   * [Друзья](igrovye-mekhaniki/plaginy-i-mikhaniki/druzya.md)
   * [Подарки](igrovye-mekhaniki/plaginy-i-mikhaniki/podarki.md)
   * [Голосовой чат](igrovye-mekhaniki/plaginy-i-mikhaniki/golosovoi-chat.md)
+
+## Гит Хап
+
+* [Наш гит хап](git-khap/nash-git-khap.md)
