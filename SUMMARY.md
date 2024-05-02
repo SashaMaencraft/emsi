@@ -11,8 +11,7 @@
 
 ## 📔 ИГРОВАЯ ИНФОРМАЦИЯ
 
-* [Дополнителня](igrovaya-informaciya/dopolnitelnya/README.md)
-  * [Ресурспаки](igrovaya-informaciya/dopolnitelnya/resurspaki.md)
+* [Дополнителня](igrovaya-informaciya/dopolnitelnya.md)
 
 ## 🔮 ИГРОВЫЕ МЕХАНИКИ
 
