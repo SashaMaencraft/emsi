@@ -10,3 +10,14 @@ description: Сам он - Plasmo Voice
 
 #### **Инструксыя к нему**  <a href="#mod-plasmovoice-https-modrinth.com-plugin-plasmo-voice-versions" id="mod-plasmovoice-https-modrinth.com-plugin-plasmo-voice-versions"></a>
 
+
+
+<figure><img src="../../.gitbook/assets/2024-05-03_23-50-46.png" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../.gitbook/assets/2024-05-03_23-53-40.png" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../.gitbook/assets/2024-05-04_00-00-14.png" alt=""><figcaption></figcaption></figure>
