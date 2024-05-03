@@ -20,4 +20,4 @@ description: Сам он - Plasmo Voice
 
 
 
-<figure><img src="../../.gitbook/assets/2024-05-04_00-00-14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2024-05-04_00-00-14 (1).png" alt=""><figcaption></figcaption></figure>
