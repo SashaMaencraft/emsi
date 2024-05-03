@@ -22,4 +22,8 @@ description: Сам он - Plasmo Voice
 
 <figure><img src="../../.gitbook/assets/2024-05-04_00-00-14 (1).png" alt=""><figcaption></figcaption></figure>
 
-### _<mark style="color:green;">Функции</mark>_
+### _<mark style="color:purple;">Функции</mark>_
+
+
+
+<figure><img src="../../.gitbook/assets/Снимок экрана 2024-05-04 001759.png" alt=""><figcaption></figcaption></figure>
