@@ -27,3 +27,7 @@ description: Сам он - Plasmo Voice
 
 
 <figure><img src="../../.gitbook/assets/Снимок экрана 2024-05-04 001759.png" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../.gitbook/assets/Снимок экрана 2024-05-04 001830.png" alt=""><figcaption></figcaption></figure>
