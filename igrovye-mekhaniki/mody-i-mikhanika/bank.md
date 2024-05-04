@@ -19,3 +19,7 @@
 
 
 <figure><img src="../../.gitbook/assets/2024-05-04_17-07-44.png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:red;">**По мимо аров - алмазные руды**</mark>&#x20;
+
+<mark style="color:orange;">**Есть карта банка и денежная валюта**</mark>** **&#x20;
