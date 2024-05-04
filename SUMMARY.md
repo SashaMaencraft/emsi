@@ -18,8 +18,6 @@
 
 ## 🔮 ИГРОВЫЕ МЕХАНИКИ
 
-* [Команды](igrovye-mekhaniki/komandy.md)
-* [Крафты](igrovye-mekhaniki/krafty.md)
 * [Плагины и миханики](igrovye-mekhaniki/plaginy-i-mikhaniki/README.md)
   * [Банк](igrovye-mekhaniki/plaginy-i-mikhaniki/bank.md)
   * [Друзья](igrovye-mekhaniki/plaginy-i-mikhaniki/druzya.md)
