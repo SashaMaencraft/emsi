@@ -18,9 +18,9 @@
 
 ## 🔮 ИГРОВЫЕ МЕХАНИКИ
 
-* [Плагины и миханики](igrovye-mekhaniki/plaginy-i-mikhaniki/README.md)
-  * [Банк](igrovye-mekhaniki/plaginy-i-mikhaniki/bank.md)
-  * [Голосовой чат](igrovye-mekhaniki/plaginy-i-mikhaniki/golosovoi-chat.md)
+* [Моды и миханика](igrovye-mekhaniki/mody-i-mikhanika/README.md)
+  * [Банк](igrovye-mekhaniki/mody-i-mikhanika/bank.md)
+  * [Голосовой чат](igrovye-mekhaniki/mody-i-mikhanika/golosovoi-chat.md)
 
 ## Гит Хап
 
