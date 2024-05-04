@@ -20,8 +20,6 @@
 
 * [Плагины и миханики](igrovye-mekhaniki/plaginy-i-mikhaniki/README.md)
   * [Банк](igrovye-mekhaniki/plaginy-i-mikhaniki/bank.md)
-  * [Друзья](igrovye-mekhaniki/plaginy-i-mikhaniki/druzya.md)
-  * [Подарки](igrovye-mekhaniki/plaginy-i-mikhaniki/podarki.md)
   * [Голосовой чат](igrovye-mekhaniki/plaginy-i-mikhaniki/golosovoi-chat.md)
 
 ## Гит Хап
