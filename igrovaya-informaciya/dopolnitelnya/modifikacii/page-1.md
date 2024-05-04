@@ -16,7 +16,7 @@
 
 <figure><img src="../../../.gitbook/assets/2024-05-04_14-37-59.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:green;">**Скачать**</mark> -  <mark style="color:blue;">**Клик**</mark>
+<mark style="color:green;">**Скачать**</mark> -  [<mark style="color:blue;">**Клик**</mark>](https://disk.yandex.ru/d/bHwgF\_4J2Dm61w)
 
 
 
