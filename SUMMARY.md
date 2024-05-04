@@ -12,7 +12,7 @@
 ## 📔 ИГРОВАЯ ИНФОРМАЦИЯ
 
 * [Дополнителня](igrovaya-informaciya/dopolnitelnya/README.md)
-  * [Page 1](igrovaya-informaciya/dopolnitelnya/page-1.md)
+  * [Модификации](igrovaya-informaciya/dopolnitelnya/modifikacii.md)
   * [Page 2](igrovaya-informaciya/dopolnitelnya/page-2.md)
 
 ## 🔮 ИГРОВЫЕ МЕХАНИКИ
