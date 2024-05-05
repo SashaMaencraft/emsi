@@ -74,4 +74,6 @@ emsi - Это приватный ванильный сервер майнкра�
 
 <figure><img src="../../.gitbook/assets/skin-avatar.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/server-icon.png" alt=""><figcaption></figcaption></figure>
+
 Наш логотип
