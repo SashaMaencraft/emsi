@@ -7,7 +7,7 @@
 * [❓Как зайти?](about-the-server/kak-zaiti.md)
 * [📔Правила](about-the-server/pravila/README.md)
   * [Самоуправление](about-the-server/pravila/samoupravlenie.md)
-  * [Словарь тиретов](about-the-server/pravila/slovar-tiretov.md)
+  * [Словарь тикетов](about-the-server/pravila/slovar-tiketov.md)
 
 ## 📔 ИГРОВАЯ ИНФОРМАЦИЯ
 
