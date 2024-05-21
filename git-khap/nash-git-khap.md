@@ -9,3 +9,5 @@
 
 
 {% embed url="https://github.com/SashaMaencraft" %}
+
+<figure><img src="../.gitbook/assets/photo_2024-05-21_19-48-56 (1).jpg" alt=""><figcaption></figcaption></figure>
